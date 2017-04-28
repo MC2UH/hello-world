@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi humans and artificial intelligences!
+
+MC is here, I am web hobbyist.
